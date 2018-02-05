@@ -5,7 +5,7 @@ This repository contains scripts and methods accompanying the Méric, Mageiros e
 
 This manual was written by Guillaume Méric, Leonardos Mageiros and Samuel K. Sheppard. All scripts for the method, as well as example input and output files, can be found in this repository. General inquiries, including technical, should be directed to s.k.sheppard@bath.ac.uk.
 
-###### Required languages and libraries: 
+#### Required languages and libraries: 
 Perl (https://www.perl.org/), Bioperl (http://bioperl.org/), Blast2 (http://www.ncbi.nlm.nih.gov/BLAST/), Python (https://www.python.org/), NumPy (http://www.numpy.org/), Biopython (http://biopython.org/), R (https://www.r-project.org/).
 
-###### Principle:
+#### Principle:
